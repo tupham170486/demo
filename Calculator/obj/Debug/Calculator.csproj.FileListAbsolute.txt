@@ -1,0 +1,5 @@
+E:\test\source_code\Demo\Calculator\bin\Debug\Calculator.dll
+E:\test\source_code\Demo\Calculator\bin\Debug\Calculator.pdb
+E:\test\source_code\Demo\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\test\source_code\Demo\Calculator\obj\Debug\Calculator.dll
+E:\test\source_code\Demo\Calculator\obj\Debug\Calculator.pdb
